@@ -8,4 +8,4 @@ def write_hello(file_path):
 
 
 if __name__ == '__main__':
-    write_hello(sys.argv[1])
+    write_hello(sys.argv[1])#传参txt1
